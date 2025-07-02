@@ -1,9 +1,10 @@
-# React + Vite
+LOGIN CREDENTIALS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ADMIN DASHBOARD  --------->  MAIL : admin@me.com   PASSWORD : 123
 
-Currently, two official plugins are available:
+EMPLOYEE DASHBOARDS -------> MAIL : employee1@example.com  PASSWORD : 123
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Employee-Task-Assigner" 
+NOTE : EMPLOYEE MAILS ARE SAME JUST CHANGE 1,2,3 TO GET DIFFERENT EMPLOYEE DASHBOARDS
+
+
+THANK YOU
