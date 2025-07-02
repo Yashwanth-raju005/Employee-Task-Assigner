@@ -10,7 +10,7 @@ const employees = [
       active: 2,
       newTask: 1,
       completed: 1,
-      failed: 0
+      failed: 0,
     },
     tasks: [
       {
@@ -42,7 +42,7 @@ const employees = [
         description: "Document all API endpoints and responses.",
         taskData: "2024-10-10",
         category: "Documentation",
-      }
+      },
     ],
   },
   {
@@ -54,7 +54,7 @@ const employees = [
       active: 1,
       newTask: 1,
       completed: 1,
-      failed: 0
+      failed: 0,
     },
     tasks: [
       {
@@ -76,7 +76,7 @@ const employees = [
         description: "Add dark mode functionality to the UI.",
         taskData: "2024-10-12",
         category: "Feature Development",
-      }
+      },
     ],
   },
   {
@@ -88,7 +88,7 @@ const employees = [
       active: 1,
       newTask: 0,
       completed: 0,
-      failed: 0
+      failed: 0,
     },
     tasks: [
       {
@@ -100,7 +100,7 @@ const employees = [
         description: "Plan and conduct a usability test for the new feature.",
         taskData: "2024-10-08",
         category: "Testing",
-      }
+      },
     ],
   },
   {
@@ -112,7 +112,7 @@ const employees = [
       active: 1,
       newTask: 1,
       completed: 0,
-      failed: 0
+      failed: 0,
     },
     tasks: [
       {
@@ -124,7 +124,7 @@ const employees = [
         description: "Develop a dashboard for data visualization.",
         taskData: "2024-10-06",
         category: "Data Analysis",
-      }
+      },
     ],
   },
   {
@@ -136,7 +136,7 @@ const employees = [
       active: 1,
       newTask: 1,
       completed: 0,
-      failed: 1
+      failed: 1,
     },
     tasks: [
       {
@@ -158,9 +158,9 @@ const employees = [
         description: "Refactor code for improved readability.",
         taskData: "2024-10-03",
         category: "Code Maintenance",
-      }
+      },
     ],
-  }
+  },
 ];
 
 const admin = [
